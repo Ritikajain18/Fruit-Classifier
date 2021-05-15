@@ -1,5 +1,5 @@
 # 🍎 Fruit Classifier 🍌
-This project aims to use the classification approach of Machine Learning. Trained on 300 iamges of apples and bananas. The link to the dataset has been attached and can be used similarly. 
+This project aims to use the classification approach of Machine Learning. Trained on 300 images of apples and bananas. The link to the dataset has been attached and can be used similarly. 
 
 # Tech/Framework used
 - Python
